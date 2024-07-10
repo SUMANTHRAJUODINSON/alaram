@@ -1,1 +1,3 @@
-pip install pygame
+streamlit
+pygame
+pyttsx3
