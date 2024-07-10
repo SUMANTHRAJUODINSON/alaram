@@ -1,3 +1,4 @@
 streamlit
 pygame
 pyttsx3
+winsound
